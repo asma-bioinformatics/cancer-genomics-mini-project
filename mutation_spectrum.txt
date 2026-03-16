@@ -1,0 +1,9 @@
+      2 A>G
+      1 C>A
+      4 C>T
+      1 Del
+      2 G>A
+      2 G>T
+      1 Ins
+      1 T>A
+      1 T>C
